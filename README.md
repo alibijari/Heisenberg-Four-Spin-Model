@@ -36,11 +36,10 @@ Each script explores a distinct basis or aspect of the problem, highlighting how
 
 The **Heisenberg model** for four spin-1/2 particles on a ring is defined as:
 
-$$
-H = \sum_{i=1}^4 \mathbf{S}_i \cdot \mathbf{S}_{i+1}
-$$
+H = S₁·S₂ + S₂·S₃ + S₃·S₄ + S₄·S₁
 
-where $\mathbf{S}_i$ are spin-1/2 operators and periodic boundary conditions are applied ($\mathbf{S}_5 \equiv \mathbf{S}_1$). The model exhibits both SU(2) symmetry (total spin conservation) and translation symmetry, making it a textbook example for quantum symmetry and block-diagonalization.
+where Sᵢ are spin-1/2 operators and periodic boundary conditions are applied (S₅ ≡ S₁).
+The model exhibits both SU(2) symmetry (total spin conservation) and translation symmetry, making it a textbook example for quantum symmetry and block-diagonalization.
 
 ---
 
