@@ -23,9 +23,11 @@ Includes code, detailed analysis, and theory for each symmetry sector—**perfec
 
 The Heisenberg Hamiltonian for a 4-site ring (periodic boundary) is:
 
+$$
 \[
 H = \vec{S}_1 \cdot \vec{S}_2 + \vec{S}_2 \cdot \vec{S}_3 + \vec{S}_3 \cdot \vec{S}_4 + \vec{S}_4 \cdot \vec{S}_1
 \]
+$$
 
 - $\vec{S}_i$: Spin-½ operators on site $i$
 - **Symmetries:**  
